@@ -1,0 +1,69 @@
+C:\Users\ReyPirata\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\bin\Debug\Vistas.exe
+C:\Users\ReyPirata\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\bin\Debug\Vistas.pdb
+C:\Users\ReyPirata\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\ReyPirata\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\ReyPirata\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\ReyPirata\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\ReyPirata\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\ReyPirata\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\ReyPirata\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\ReyPirata\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.Inicio.resources
+C:\Users\ReyPirata\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.Login.resources
+C:\Users\ReyPirata\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.Principal.resources
+C:\Users\ReyPirata\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.AltaParticipante.resources
+C:\Users\ReyPirata\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.AltaCategoria.resources
+C:\Users\ReyPirata\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.AltaDisciplina.resources
+C:\Users\ReyPirata\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.AltaEvento.resources
+C:\Users\ReyPirata\Documents\Visual Studio 2010\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\ReyPirata\Documents\Visual Studio 2010\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\ReyPirata\Documents\Visual Studio 2010\LPOOI_GRUPO_01\Vistas\bin\Debug\Vistas.exe
+C:\Users\ReyPirata\Documents\Visual Studio 2010\LPOOI_GRUPO_01\Vistas\bin\Debug\Vistas.pdb
+C:\Users\ReyPirata\Documents\Visual Studio 2010\LPOOI_GRUPO_01\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\ReyPirata\Documents\Visual Studio 2010\LPOOI_GRUPO_01\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\ReyPirata\Documents\Visual Studio 2010\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\ReyPirata\Documents\Visual Studio 2010\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.AltaCategoria.resources
+C:\Users\ReyPirata\Documents\Visual Studio 2010\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.AltaDisciplina.resources
+C:\Users\ReyPirata\Documents\Visual Studio 2010\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.AltaEvento.resources
+C:\Users\ReyPirata\Documents\Visual Studio 2010\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.AltaParticipante.resources
+C:\Users\ReyPirata\Documents\Visual Studio 2010\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.Inicio.resources
+C:\Users\ReyPirata\Documents\Visual Studio 2010\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.Login.resources
+C:\Users\ReyPirata\Documents\Visual Studio 2010\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.Principal.resources
+C:\Users\ReyPirata\Documents\Visual Studio 2010\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\ReyPirata\Documents\Visual Studio 2010\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\ReyPirata\Downloads\LPOOI_GRUPO_01 (2)\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\ReyPirata\Downloads\LPOOI_GRUPO_01 (2)\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\ReyPirata\Downloads\LPOOI_GRUPO_01 (2)\LPOOI_GRUPO_01\Vistas\bin\Debug\Vistas.exe
+C:\Users\ReyPirata\Downloads\LPOOI_GRUPO_01 (2)\LPOOI_GRUPO_01\Vistas\bin\Debug\Vistas.pdb
+C:\Users\ReyPirata\Downloads\LPOOI_GRUPO_01 (2)\LPOOI_GRUPO_01\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\ReyPirata\Downloads\LPOOI_GRUPO_01 (2)\LPOOI_GRUPO_01\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\ReyPirata\Downloads\LPOOI_GRUPO_01 (2)\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\ReyPirata\Downloads\LPOOI_GRUPO_01 (2)\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.AltaCategoria.resources
+C:\Users\ReyPirata\Downloads\LPOOI_GRUPO_01 (2)\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.AltaDisciplina.resources
+C:\Users\ReyPirata\Downloads\LPOOI_GRUPO_01 (2)\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.AltaEvento.resources
+C:\Users\ReyPirata\Downloads\LPOOI_GRUPO_01 (2)\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.AltaParticipante.resources
+C:\Users\ReyPirata\Downloads\LPOOI_GRUPO_01 (2)\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.Inicio.resources
+C:\Users\ReyPirata\Downloads\LPOOI_GRUPO_01 (2)\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.Login.resources
+C:\Users\ReyPirata\Downloads\LPOOI_GRUPO_01 (2)\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.Principal.resources
+C:\Users\ReyPirata\Downloads\LPOOI_GRUPO_01 (2)\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\ReyPirata\Downloads\LPOOI_GRUPO_01 (2)\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\Estudio\Documents\Workspaces\.NET\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\Estudio\Documents\Workspaces\.NET\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\Estudio\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\Estudio\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\Estudio\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\bin\Debug\Vistas.exe
+C:\Users\Estudio\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Estudio\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\Estudio\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\Estudio\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\Estudio\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.AltaCategoria.resources
+C:\Users\Estudio\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.AltaDisciplina.resources
+C:\Users\Estudio\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.AltaEvento.resources
+C:\Users\Estudio\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.AltaParticipante.resources
+C:\Users\Estudio\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.Inicio.resources
+C:\Users\Estudio\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.Login.resources
+C:\Users\Estudio\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.Principal.resources
+C:\Users\Estudio\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\Estudio\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\Estudio\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.AltaUsuario.resources
+C:\Users\Estudio\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.frmRegistroUsuarios.resources
+C:\Users\Estudio\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\Vistas\obj\x86\Debug\Vistas.ModificarUsuario.resources

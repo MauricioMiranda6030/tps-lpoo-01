@@ -1,0 +1,16 @@
+C:\Users\ReyPirata\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\ReyPirata\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\ReyPirata\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\ReyPirata\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\ReyPirata\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+C:\Users\ReyPirata\Downloads\LPOOI_GRUPO_01 (2)\LPOOI_GRUPO_01\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\ReyPirata\Downloads\LPOOI_GRUPO_01 (2)\LPOOI_GRUPO_01\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\ReyPirata\Downloads\LPOOI_GRUPO_01 (2)\LPOOI_GRUPO_01\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+C:\Users\ReyPirata\Downloads\LPOOI_GRUPO_01 (2)\LPOOI_GRUPO_01\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\ReyPirata\Downloads\LPOOI_GRUPO_01 (2)\LPOOI_GRUPO_01\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\Estudio\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\Estudio\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\Estudio\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\Estudio\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+C:\Users\Estudio\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\Estudio\Documents\Visual Studio 2010\Projects\LPOOI_GRUPO_01\ClasesBase\obj\Debug\ClasesBase.pdb
